@@ -6,5 +6,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... muzafferfatihpirim@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love learning Japanese and Digital Design
+- ⚡ Fun fact: ... I love anything Japan and Digital Design
 

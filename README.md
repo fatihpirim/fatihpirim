@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... Web development and Java
-- 🤔 I’m looking for help with ... Project ideas
+- 🌱 I’m currently learning ... Spring Boot
+- 🤔 I’m looking for help with ... Full stack development
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... muzafferfatihpirim@gmail.com
-- ⚡ Fun fact: ... I love anything Japan and Digital Design
+- ⚡ Fun fact: ... I am bilingual and have a passion for music
 
